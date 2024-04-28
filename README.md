@@ -1,4 +1,4 @@
-THe real code really can be credited to the program below.
+The real code really can be credited to the program below.
 
 NirCmd: https://www.nirsoft.net/utils/nircmd.html
 /////
